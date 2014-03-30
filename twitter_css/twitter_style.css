@@ -1,0 +1,51 @@
+
+#name_and_link
+{
+    position: absolute;
+    top: 10px;
+    left: 95px;
+}
+#mail_name
+{
+    position: absolute;
+    top: 30px;
+    left: 95px;
+    color: grey;
+}
+#name_link
+{
+    color:black;
+    font-size: large;
+    font-weight:bold;
+    text-decoration:none;
+}
+#follow_button
+{
+    position: absolute;
+    left:500px;
+    top: 10px;
+}
+#tweet_text
+{
+    width:400px;
+    font-size: larger;
+    font-weight:bold;
+}
+.pink
+{
+    color:deeppink;
+    text-decoration:none;
+}
+.comment_mail_and_date
+{
+    color: grey;
+    display:inline-block;
+    text-decoration:none;
+}
+#comment_bottom_links
+{
+    position: relative;
+    display:inline;
+    left:200px;
+    top: 10px;
+}

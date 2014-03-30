@@ -1,0 +1,27 @@
+
+/* 1 */
+a {
+    color: #00FFFF;
+}
+
+/* 2 */
+/*
+add under the body
+*/
+background-color: lightgrey;
+
+
+
+/* 3 */
+/* moving the login box a bit right - adding  */
+.inline style
+{
+    position: fixed;
+    left: 220px;
+}
+/* the changes that are generated in the html as a result of the rule above  */
+<div class="block_login  block" id="inst22008" role="complementary" aria-labelledby="instance-22008-header" style="left: 220px; position: fixed;"><div class="header"><div class="title" id="yui_3_9_1_3_1396174502569_159"><div class="block_action"><img tabindex="0" title="הסתרת משבצת התחברות" class="block-hider-hide" alt="הסתרת משבצת התחברות" src="http://moodle.technion.ac.il/theme/image.php/standard/core/1396154678/t/switch_minus"><img tabindex="0" title="הצג את משבצת התחברות" class="block-hider-show" alt="הצג את משבצת התחברות" src="http://moodle.technion.ac.il/theme/image.php/standard/core/1396154678/t/switch_plus"><input title="העברת את משבצת התחברות לסרגל הצדדי" class="moveto customcommand requiresjs" type="image" alt="העברת משבצת זו לסרגל־הצדדי" src="http://moodle.technion.ac.il/theme/image.php/standard/core/1396154678/t/block_to_dock_rtl"></div><h2 id="instance-22008-header">התחברות</h2><div class="commands"></div></div></div><div class="content" id="yui_3_9_1_3_1396174502569_283">
+<form class="loginform" id="login" action="https://moodle.technion.ac.il/login/index.php" method="post"><div class="c1 fld username"><label for="login_username">שם משתמש</label><input name="username" id="login_username" type="text" value="038111951"></div><div class="c1 fld password"><label for="login_password">סיסמה</label><input name="password" id="login_password" type="password" value=""></div><div class="c1 rememberusername"><input name="rememberusername" id="rememberusername" type="checkbox" checked="checked" value="1"> <label for="rememberusername">זכור שם משתמש</label></div><div class="c1 btn"><input type="submit" value="התחבר"></div></form>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <div class="footer"><div><a href="https://moodle.technion.ac.il/login/forgot_password.php">שכחת סיסמה?</a></div></div></div></div>
+
+/* 4+ 5  ? */
